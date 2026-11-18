@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "version": 1794987861,
+  "created": 1794987861,
+  "expires": 1795592661,
+  "key_id": "preview-2026-11",
+  "domains": 105634,
+  "sha256": "c3be347e23e2de4e381b5c292055b81e4f641192932dfb1cc856c1b1f8fe5f8d",
+  "sources": [
+    {
+      "name": "cert-polska",
+      "status": "used",
+      "entries": 124996,
+      "baseline": 124996,
+      "peak": 124996
+    }
+  ]
+}
